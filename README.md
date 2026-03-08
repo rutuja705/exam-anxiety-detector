@@ -93,4 +93,4 @@ The frontend UI will be running at `http://localhost:8501`.
 The trained model file is hosted on Google Drive due to GitHub's 100MB file limit.
 
 Download here:
-ps://drive.google.com/file/d/183S8QUx9eY30ZoabqWzvvIEljNlA9FBT/view?usp=sharing
+https://drive.google.com/file/d/183S8QUx9eY30ZoabqWzvvIEljNlA9FBT/view?usp=sharing
