@@ -87,3 +87,10 @@ The frontend UI will be running at `http://localhost:8501`.
 5. Push the code: `git push -u origin main`
 
 *Important: Add `backend/saved_model/` to your `.gitignore` if the model files are too large for GitHub. You can use Git LFS for large files.*
+
+## Model Download
+
+The trained model file is hosted on Google Drive due to GitHub's 100MB file limit.
+
+Download here:
+ps://drive.google.com/file/d/183S8QUx9eY30ZoabqWzvvIEljNlA9FBT/view?usp=sharing
